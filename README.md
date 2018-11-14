@@ -59,6 +59,6 @@ Project which contains the main DB operations and rest endpoint. It takes the co
  ## Run
  Run the main class as a Spring boot app 
  ## Query
- http://localhost:9999/reservation-service/reservations
- http://localhost:9999/reservations/names
+ - http://localhost:9999/reservation-service/reservations
+ - http://localhost:9999/reservations/names
  
